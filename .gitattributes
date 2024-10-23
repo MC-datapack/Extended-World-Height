@@ -1,1 +1,1 @@
-*.sch linguist-detectable=JSON
+*.json linguist-language=JSON linguist-detectable
