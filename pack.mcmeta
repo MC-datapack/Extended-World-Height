@@ -5,7 +5,7 @@
 			"min_inclusive": 15,
 			"max_inclusive": 100
 		},
-		"description": "Build up to Y=2032 in all 3 dimensions"
+		"description": "Build up to Y=512 in all 3 dimensions"
 	},
 	"overlays": {
 		"entries": [

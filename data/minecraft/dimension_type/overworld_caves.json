@@ -12,8 +12,8 @@
   "logical_height": 576,
   "effects": "minecraft:overworld",
   "infiniburn": "#minecraft:infiniburn_overworld",
-  "min_y": -64,
-  "height": 576,
+  "min_y": -512,
+  "height": 1024,
   "monster_spawn_light_level": {
     "type": "minecraft:uniform",
     "value": {
