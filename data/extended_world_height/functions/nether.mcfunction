@@ -1,0 +1,1 @@
+execute if entity @s[nbt={Dimension:"minecraft:overworld"}] run function extended_world_height:nether2
