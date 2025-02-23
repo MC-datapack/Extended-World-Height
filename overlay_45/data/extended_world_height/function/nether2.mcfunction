@@ -1,0 +1,1 @@
+execute in minecraft:the_nether unless block ~ ~ ~ nether_portal run function extended_world_height:tp_to_nether
