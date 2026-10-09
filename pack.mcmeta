@@ -1,9 +1,11 @@
 {
 	"pack": {
 		"pack_format": 15,
+		"min_format": 81,
+		"max_format": 1000,
 		"supported_formats": {
 			"min_inclusive": 15,
-			"max_inclusive": 100
+			"max_inclusive": 1000
 		},
 		"description": "Build up to Y=1024 in all 3 dimensions"
 	},
@@ -12,16 +14,54 @@
 			{
 				"formats": {
 					"min_inclusive": 41,
-					"max_inclusive": 44
+					"max_inclusive": 71
 				},
 				"directory": "overlay_41"
 			},
 			{
 				"formats": {
-					"min_inclusive": 45,
-					"max_inclusive": 100
+					"min_inclusive": 72,
+					"max_inclusive": 89
 				},
-				"directory": "overlay_45"
+				"min_format": 72,
+				"max_format": 89,
+				"directory": "overlay_72"
+			},
+			{
+				"formats": {
+					"min_inclusive": 90,
+					"max_inclusive": 92
+				},
+				"min_format": 90,
+				"max_format": 92,
+				"directory": "overlay_90"
+			},
+			{
+				"formats": {
+					"min_inclusive": 93,
+					"max_inclusive": 96
+				},
+				"min_format": 93,
+				"max_format": 96,
+				"directory": "overlay_93"
+			},
+			{
+				"formats": {
+					"min_inclusive": 97,
+					"max_inclusive": 98
+				},
+				"min_format": 97,
+				"max_format": 98,
+				"directory": "overlay_97"
+			},
+			{
+				"formats": {
+					"min_inclusive": 99,
+					"max_inclusive": 1000
+				},
+				"min_format": 99,
+				"max_format": 1000,
+				"directory": "overlay_99"
 			}
 		]
 	}
