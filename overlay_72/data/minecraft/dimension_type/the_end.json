@@ -13,14 +13,12 @@
 	"logical_height": 4064,
 	"effects": "minecraft:the_end",
 	"infiniburn": "#minecraft:infiniburn_end",
-	"min_y": -2032,
+	"min_y": -2048,
 	"height": 4064,
 	"monster_spawn_light_level": {
 		"type": "minecraft:uniform",
-		"value": {
-			"min_inclusive": 0,
-			"max_inclusive": 7
-		}
+		"min_inclusive": 0,
+		"max_inclusive": 7
 	},
 	"monster_spawn_block_light_limit": 0
 }

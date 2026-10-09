@@ -13,7 +13,7 @@
 	"logical_height": 4064,
 	"effects": "minecraft:the_nether",
 	"infiniburn": "#minecraft:infiniburn_nether",
-	"min_y": -2032,
+	"min_y": -2048,
 	"height": 4064,
 	"monster_spawn_light_level": 11,
 	"monster_spawn_block_light_limit": 15

@@ -1,1 +1,0 @@
-execute as @a at @s if block ~ ~ ~ nether_portal run function extended_world_height:nether
